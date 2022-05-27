@@ -11,7 +11,7 @@
 
 <!-- Quote -->
 <p align="center"> 
-  <p align="center"> Hi, my name is Jaime Fitzgerald! I'm a recent graduate of Wayne State University's Information System Management program and an aspiring data scientist. </p>
+  <p align="center"> Hi, my name is Jaime Fitzgerald! I'm a recent graduate of Wayne State University's Information Systems Management program and an aspiring data scientist. </p>
   
   <!-- Social Network -->
 <h1 align="center">
