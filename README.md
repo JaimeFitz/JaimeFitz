@@ -5,14 +5,16 @@
 - 📫 How to reach me: You can reach me on my LinkedIn profile https://www.linkedin.com/in/jaime-fitzgerald-bba-information-systems-management/ 
 
 <!-- Title -->
-<h1 align="center">Hello World 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+<!-- Title -->
+<h1 align="center"> Let's Git Acquainted!
+  <img src="https://user-images.githubusercontent.com/106002818/170628173-9a57b40f-772d-4e3a-b86b-6932d1587cb2.png" 
        width="30px">
   </h2></h1>
 
 
+
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<p align="center"> 
   
   <!-- Social Network -->
 <h1 align="center">
@@ -23,9 +25,9 @@
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://www.linkedin.com/in/lunox/">
+<a href="https://www.linkedin.com/in/jaime-fitzgerald-bba-information-systems-management/recent-activity/">
   <img align="center" 
-       alt="Linkdein" 
+       alt="Connect with me on LinkedIn!" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
@@ -65,6 +67,9 @@
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
+  
+  ![7472322_sql_database_structured_query_language_icon](https://user-images.githubusercontent.com/106002818/170626209-dd8b44d4-44aa-4fb9-bf56-79d90821e938.png)
+
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
